@@ -1,0 +1,13 @@
+numpy<2.0.0
+scipy
+scikit-learn
+numexpr
+fastcluster
+h5py
+onnxruntime
+soundfile
+kaldi_io
+torch
+tabulate
+intervaltree
+pyannote.audio
